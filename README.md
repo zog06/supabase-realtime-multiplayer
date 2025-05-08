@@ -4,6 +4,7 @@ A real-time multiplayer application that tracks and displays mouse positions of 
 
 *Inspired by [multiplayer.dev](https://multiplayer.dev) provided by Supabase.*
 
+https://supabase-realtime-multiplayer.vercel.app/
 ![Live Demo](readme_utils/readme_example.png)
 
 ## Features
