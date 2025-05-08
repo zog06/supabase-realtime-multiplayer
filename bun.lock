@@ -2,7 +2,7 @@
   "lockfileVersion": 1,
   "workspaces": {
     "": {
-      "name": "zog-multiplayer-test",
+      "name": "supabase-realtime-multiplayer",
       "dependencies": {
         "@hookform/resolvers": "^5.0.1",
         "@radix-ui/react-accordion": "^1.2.8",

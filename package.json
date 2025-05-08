@@ -1,5 +1,5 @@
 {
-  "name": "zog-multiplayer-test",
+  "name": "supabase-realtime-multiplayer",
   "version": "0.1.0",
   "private": true,
   "scripts": {
